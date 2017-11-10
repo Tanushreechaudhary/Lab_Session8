@@ -16,7 +16,8 @@ In the redesign, I will make my claim more strong by adding more metrics, more d
 ## Claim: Why MSIS at SCU is a good choice?
 So, to support the claim, I will be providing some important metrics to show Why SCU? and Why MSIS at SCU?
 
-Data sources: http://colleges.startclass.com/
+Data sources:
+http://colleges.startclass.com/          
 https://www.payscale.com/
 
 ## Audience:
