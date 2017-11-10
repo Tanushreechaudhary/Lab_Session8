@@ -35,7 +35,8 @@ Students want a university which has a curriculum that can help them get good sa
 4. Unable to finish the course on time
 
 ---
-## Key Metrics:
+## Redesign:
+The key metrics will be
 ### SCU MIS graduates earn $8100 more than USF graduates!
 
 
@@ -53,8 +54,17 @@ And that may give a red flag to a prospective student because extended enrollmen
 In choosing a university to attend, it is important to find a good fit – a place that provides a challenging academic environment. The visualization provides us the information about what is the percentage of students that fall under a particular GPA Range. The size is decreasing and the color is fading as per the percentage. We can clearly see that 43% of students at SCU have GPA 3.75 or Higher, while at SJSU and University of San Francisco this percentage is 20% and 40% respectively. 
 The GPA Breakdown statistics shows that at SCU, there is a competitive environment which motivates students to perform well and shine! 
 
-### An immense network of professional contacts!
+### An immense network of professional contacts at SCU!
 
 At every university, alumni profile is an important factor to look at for evaluating the market value of the university. The visualization here shows that top companies like Apple, Google, Oracle, Cisco etc are hiring SCU Alumni. The prospective students can know what can they expect when they graduate and also it provides them with great networking opportunities. Students can connect with them over professional websites and build relationshps over the long-term.
 
-### Employed
+### Choosing MSIS pretty much guarantees you a job!
+
+The Visualization here shows number of employed and unemployed students as per the majors. As we can see, MSIS has more count of employed than unemployed. The prospective students can take a note that taking this course, also ensures job security along with a good salary. Solid analytical skills and comprehensive business knowledge developed at SCU gives you an edge in the industry and job security too!
+
+
+### Link to Tableau Public: 
+
+
+## Conclusion:
+Students looking for a good graduate program at a reputed university should definitely go for Santa Clara University's MSIS program. It is located at the heart of the Silicon valley, plus it offers a cutting edge curriculum that helps you bag an amazing starting salary post graduation. Also, it provides you with a competitive environment where you will strive to perform well and get good GPA and complete the course in a timely manner.
