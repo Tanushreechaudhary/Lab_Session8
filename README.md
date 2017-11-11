@@ -31,7 +31,7 @@ http://colleges.startclass.com/
 https://www.payscale.com/
 
 
-                                                 ## Redesign: The key metrics are:
+## Redesign: The key metrics are:
 
 ### 1. SCU MIS graduates earn $8100 more than USF graduates!
 ![mis_salary](https://user-images.githubusercontent.com/32077698/32646969-f4f539c0-c5a3-11e7-8a66-9f4d354ed331.png)
@@ -60,6 +60,5 @@ The Visualization here shows the unemployment rate as per the majors. As we can 
 ## Link to Tableau Public:
 https://public.tableau.com/profile/tanushree3514#!/vizhome/MSISDashboard-Lab_Session8/MISSalary
 
----
 ## Conclusion:
 Students looking for a good graduate program at a reputed university should definitely go for Santa Clara University's MSIS program. It is located at the heart of the Silicon valley, plus it offers a cutting edge curriculum that helps you bag an amazing starting salary post graduation. Also, it provides you with a competitive environment where you will strive to perform well and get good GPA and complete the course in a timely manner.
