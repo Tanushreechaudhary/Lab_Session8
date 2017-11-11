@@ -56,9 +56,16 @@ At every university, alumni profile is an important factor to look at for evalua
 ![unemp rate](https://user-images.githubusercontent.com/32077698/32689037-d4275906-c690-11e7-9cdc-daf561642424.png)
 The Visualization here shows the unemployment rate as per the majors. As we can see, MSIS has 0.05824 unemployment rate, which is very less as compared to other majors. The prospective students can take a note that taking this course, also ensures job security along with a good salary. Solid analytical skills and comprehensive business knowledge developed at SCU gives you an edge in the industry and job security too!
 
+### SCU's great academic support, helps you score high GPA and finish your courses on time! (Integrated metrics)
+![integrated](https://user-images.githubusercontent.com/32077698/32692934-198e1ac6-c6d6-11e7-950d-937e6a0c3ce1.png)
+
+## MSIS Dashboard
+![dashboard](https://user-images.githubusercontent.com/32077698/32692933-196d05c0-c6d6-11e7-81b6-287508ccd361.png)
+### Reason: Why Dashboard?
+While selecti g between Dashboard or Story line in Tableau, we should consider what type of data we are trying to display and will that choice be able to convey the message. So, here I selected Dashboard for displaying my work because I want to provide the audience with a single view rather than having them to hover over the story points to see the information. In a story line, it can be a bit distracting and painful for the audience to go back and forth everytime through sheets and remember the information.
 
 ## Link to Tableau Public:
-https://public.tableau.com/profile/tanushree3514#!/vizhome/MSISDashboard-Lab_Session8/MISSalary
+https://public.tableau.com/profile/tanushree3514#!/vizhome/MSISDashboard-Lab_Session8/MSISDashboard
 
 ## Conclusion:
 Students looking for a good graduate program at a reputed university should definitely go for Santa Clara University's MSIS program. It is located at the heart of the Silicon valley, plus it offers a cutting edge curriculum that helps you bag an amazing starting salary post graduation. Also, it provides you with a competitive environment where you will strive to perform well and get good GPA and complete the course in a timely manner.
