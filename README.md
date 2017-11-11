@@ -10,7 +10,7 @@ The Visualization provides three different metrics about Salary, Graduation rate
 
 ## Roadmap for Improvement:
 In the redesign, I will make my claim more strong by adding more metrics, more data that shows the number of students working at top companies and the Unemployment ratio. By knowing about the companies where Alumni are working, gives the prospective students an insight that top companies are willing to hire SCU graduates. And also, they can network with them for future references. Unemployment rate for a particular major tells students that what is the average unemployed students in that major and if the rate is less that means more job safety. This helps them decide upon the major they should opt for!
----
+
 ## Audience:
 The audience for the visualization would be "The Prospective students". While selecting a university for graduate studies, students evaluate many options and then select the most suitable fit. The following metrics would help them to see why doing Masters at Santa Clara University is a good choice from the perspective of Compensation, job opportunities, Graduation rate and much more. 
 
@@ -29,8 +29,9 @@ Students want a university which has a curriculum that can help them get good sa
 Data sources: The data sources shared by fellow classmates through google doc.                                         
 http://colleges.startclass.com/          
 https://www.payscale.com/
----
-## Redesign: The key metrics are:
+
+
+                                                 ## Redesign: The key metrics are:
 
 ### 1. SCU MIS graduates earn $8100 more than USF graduates!
 ![mis_salary](https://user-images.githubusercontent.com/32077698/32646969-f4f539c0-c5a3-11e7-8a66-9f4d354ed331.png)
