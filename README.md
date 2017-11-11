@@ -1,7 +1,6 @@
 # Education at Santa Clara University is far from typical!
 Lab Session 8 is a redesign of lab session 5, where we designed a factsheet on Santa Clara's MSIS program.
-Here is the link to lab session 5: 
-
+Here is the link to lab session 5:                                                  
 https://github.com/Tanushreechaudhary/Lab_Session5
 
 ## Lab 5 Visualization:
@@ -11,16 +10,7 @@ The Visualization provides three different metrics about Salary, Graduation rate
 
 ## Roadmap for Improvement:
 In the redesign, I will make my claim more strong by adding more metrics, more data that shows the number of students working at top companies and the Unemployment ratio. By knowing about the companies where Alumni are working, gives the prospective students an insight that top companies are willing to hire SCU graduates. And also, they can network with them for future references. Unemployment rate for a particular major tells students that what is the average unemployed students in that major and if the rate is less that means more job safety. This helps them decide upon the major they should opt for!
-
 ---
-## Claim: Why MSIS at SCU is a good choice?
-So, to support the claim, I will be providing some important metrics to show Why they should join SCU? and Why MSIS at SCU?
-
-Data sources: The data sources shared by fellow classmates through google doc.                                         
-http://colleges.startclass.com/          
-https://www.payscale.com/
-
-
 ## Audience:
 The audience for the visualization would be "The Prospective students". While selecting a university for graduate studies, students evaluate many options and then select the most suitable fit. The following metrics would help them to see why doing Masters at Santa Clara University is a good choice from the perspective of Compensation, job opportunities, Graduation rate and much more. 
 
@@ -36,6 +26,9 @@ Students want a university which has a curriculum that can help them get good sa
 3. Fear of being unemployed after the graduation
 4. Unable to finish the course on time
 
+Data sources: The data sources shared by fellow classmates through google doc.                                         
+http://colleges.startclass.com/          
+https://www.payscale.com/
 ---
 ## Redesign: The key metrics are:
 
@@ -63,8 +56,9 @@ At every university, alumni profile is an important factor to look at for evalua
 The Visualization here shows the unemployment rate as per the majors. As we can see, MSIS has 0.05824 unemployment rate, which is very less as compared to other majors. The prospective students can take a note that taking this course, also ensures job security along with a good salary. Solid analytical skills and comprehensive business knowledge developed at SCU gives you an edge in the industry and job security too!
 
 
-### Link to Tableau Public: 
+## Link to Tableau Public:
 https://public.tableau.com/profile/tanushree3514#!/vizhome/MSISDashboard-Lab_Session8/MISSalary
+
 ---
 ## Conclusion:
 Students looking for a good graduate program at a reputed university should definitely go for Santa Clara University's MSIS program. It is located at the heart of the Silicon valley, plus it offers a cutting edge curriculum that helps you bag an amazing starting salary post graduation. Also, it provides you with a competitive environment where you will strive to perform well and get good GPA and complete the course in a timely manner.
